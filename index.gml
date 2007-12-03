@@ -21,7 +21,7 @@
       </td>
       <td valign="top">
         <gm:map id="myMap" style="border:solid black 1px" control="large"
-            maptypes="true" data="${myList}" geolocationref="ns1660700041:title"
+            maptypes="true" data="${myList}" geolocationref="gsx:location"
             infotemplate="myMapDetailsTemplate"
             lat="30.53" lng="-89.68" zoom="9">
           <gm:handleEvent event="select" src="myList"/>
@@ -33,7 +33,7 @@
   <gm:template id="myListTemplate">
     <table class="blue-theme" style="width:250px">
       <tr repeat="true">
-        <td><gm:text ref="ns1660700041:title"/></td>
+        <td><gm:text ref="gsx:location"/></td>
       </tr>
       <tfoot>
         <tr>
@@ -45,7 +45,7 @@
 
   <gm:template id="myMapDetailsTemplate">
     <div repeat="true">
-      <b><gm:text ref="ns1660700041:title"/></b><br/>
+      <b><gm:text ref="gsx:location"/></b><br/>
     </div>
   </gm:template>
 
