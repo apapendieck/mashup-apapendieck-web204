@@ -33,7 +33,7 @@
   <gm:template id="myListTemplate">
     <table class="blue-theme" style="width:250px">
       <tr repeat="true">
-        <td><gm:text ref="gsx:location"/></td>
+        <td><gm:text ref="gsx:name"/></td>
       </tr>
       <tfoot>
         <tr>
@@ -45,7 +45,7 @@
 
   <gm:template id="myMapDetailsTemplate">
     <div repeat="true">
-      <b><gm:text ref="gsx:location"/></b><br/>
+      <b><gm:text ref="gsx:name"/></b><br/>
     </div>
   </gm:template>
 
