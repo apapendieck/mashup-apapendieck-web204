@@ -46,6 +46,7 @@
   <gm:template id="myMapDetailsTemplate">
     <div repeat="true">
       <b><gm:text ref="gsx:name"/></b><br/>
+      Asset type: <gm:text ref="gsx:category"/><br/>
       Address: <gm:text ref="gsx:location"/><br/>
       Phone: <gm:text ref="gsx:telephone"/>
     </div>
