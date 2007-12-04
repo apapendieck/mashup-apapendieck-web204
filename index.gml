@@ -1,10 +1,9 @@
 <gm:page title="Picayune Assets" authenticate="false">
 
   <!--
-    The mashup application demonstrates taking a external RSS feed with
-    geo-location information and mapping it on a Google Map. Interaction
-    between a list and a map is also demonstrated via the handleEvent tag.
-    @author: GME Team
+    The mashup application demonstrates taking an external RSS feed from a google spreadsheet with
+    and maps it to a Google Map using a "location" field and the "geolocationref" operator.
+    @author: apapendieck@gmail.com
   -->
 
   <div class="gm-app-header">
