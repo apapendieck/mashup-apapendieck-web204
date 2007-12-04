@@ -71,7 +71,7 @@
   
   
     <gm:section id="section2" title="RSS Feed">
-      <gm:list id="myList" data="http://www.digg.com/rss/index.xml"
+      <gm:list id="myList3" data="http://www.digg.com/rss/index.xml"
           pagesize="10"/>
     </gm:section>
     
