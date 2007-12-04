@@ -48,14 +48,17 @@
     </table>
   </gm:template>
 
+<iframe width='100%' height='500' frameborder='0' src='http://spreadsheets.google.com/pub?key=p24J_PxaAu_Sb-82YvGs_Uw&output=html&gid=0&single=true&widget=true'></iframe>
+
   <gm:template id="myMapDetailsTemplate">
-    <div repeat="true">
-      <b><gm:text ref="gsx:name"/></b><br/>
-      Asset type: <gm:text ref="gsx:category"/><br/>
-      Address: <gm:text ref="gsx:location"/><br/>
-      Phone: <gm:text ref="gsx:telephone"/>
-    </div>
-  </gm:template>
+<div repeat="true">
+<b><gm:text ref="gsx:name"/></b><br/>
+Asset type: <gm:text ref="gsx:category"/><br/>
+Address: <gm:text ref="gsx:location"/><br/>
+Phone: <gm:text ref="gsx:telephone"/>
+</div>
+</gm:template>
+
 
       </gm:section>
 
