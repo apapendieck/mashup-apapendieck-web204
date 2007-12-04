@@ -8,8 +8,7 @@
   -->
 
   <div class="gm-app-header">
-    <h3>Pearl River County Assets: All Assets</h3>
-    <h4><a href="http://spreadsheets.google.com/pub?key=p24J_PxaAu_Sb-82YvGs_Uw">View Database</a></h4>
+    <h3>Pearl River County Assets: All Assets</h3> <h4><a href="http://spreadsheets.google.com/pub?key=p24J_PxaAu_Sb-82YvGs_Uw">View Database</a></h4>
   </div>
 
   <table width="100%">
