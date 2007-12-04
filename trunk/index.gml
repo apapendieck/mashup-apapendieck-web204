@@ -13,7 +13,7 @@
   <table width="100%">
     <tr>
       <td style="padding-right:10px; width:250px" valign="top">
-        <gm:list id="myList" data="http://spreadsheets.google.com/feeds/list/o17634829598942266075.5998631686442449819/od6/public/values"
+        <gm:list id="myList" data="http://spreadsheets.google.com/feeds/list/o17634829598942266075.5998631686442449819/od6/public/values?sq=category%3Dschool"
             pagesize="10" template="myListTemplate">
           <gm:handleEvent event="select" src="myMap"/>
         </gm:list>
