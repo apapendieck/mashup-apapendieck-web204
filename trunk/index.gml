@@ -35,7 +35,6 @@
       </td>
     </tr>    
   </table>
-<iframe width='100%' height='500' frameborder='0' src='http://spreadsheets.google.com/pub?key=p24J_PxaAu_Sb-82YvGs_Uw&output=html&gid=0&single=true&widget=true'></iframe>
   <gm:template id="myListTemplate">
     <table class="blue-theme" style="width:250px">
       <tr repeat="true">
