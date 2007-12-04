@@ -1,4 +1,4 @@
-<gm:page title="Sample - Maps Mashup" authenticate="false">
+<gm:page title="Picayune Assets" authenticate="false">
 
   <!--
     The mashup application demonstrates taking a external RSS feed with
