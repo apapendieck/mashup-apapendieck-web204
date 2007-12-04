@@ -10,6 +10,23 @@
     <h3>Pearl River County Assets: All Assets</h3> <h4><a href="http://spreadsheets.google.com/pub?key=p24J_PxaAu_Sb-82YvGs_Uw">View Database</a></h4>
   </div>
 
+  
+  <gm:tabs target="myContainer"/>
+
+  <gm:container id="myContainer" style="width:600px">
+      
+    <gm:section id="section1" title="Static text">
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla
+      dictum porta lorem. In eu elit quis lorem laoreet venenatis. Aenean
+      ullamcorper. Duis risus ante, varius id, posuere posuere, ultricies
+      vitae, pede. In id felis. Mauris ligula. Sed tempus tortor a mauris.
+      Nam non eros. Suspendisse massa tellus, feugiat vel, suscipit vitae,
+      venenatis quis, ante. Fusce sit amet turpis. Nam a ligula nec magna
+      facilisis varius. Donec faucibus lobortis neque. Morbi tellus neque,
+      consequat a, interdum eu, bibendum vel, est.
+    </gm:section>
+
+  
   <table width="100%">
     <tr>
       <td style="padding-right:10px; width:250px" valign="top">
@@ -51,4 +68,13 @@
     </div>
   </gm:template>
 
+  
+  
+    <gm:section id="section2" title="RSS Feed">
+      <gm:list id="myList" data="http://www.digg.com/rss/index.xml"
+          pagesize="10"/>
+    </gm:section>
+    
+  </gm:container>
+  
 </gm:page>
