@@ -9,6 +9,7 @@
 
   <div class="gm-app-header">
     <h3>Pearl River County Assets: All Assets</h3>
+    <h3><a href="http://spreadsheets.google.com/feeds/list/o17634829598942266075.5998631686442449819/od6/public/values">View Database</a></h3>
   </div>
 
   <table width="100%">
@@ -23,7 +24,7 @@
         <gm:map id="myMap" style="border:solid black 1px" control="large"
             maptypes="true" data="${myList}" geolocationref="gsx:location"
             infotemplate="myMapDetailsTemplate"
-            lat="30.53" lng="-89.68" zoom="9">
+            lat="30.53" lng="-89.68" zoom="8">
           <gm:handleEvent event="select" src="myList"/>
         </gm:map>
       </td>
