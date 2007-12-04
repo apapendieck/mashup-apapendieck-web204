@@ -9,7 +9,7 @@
 
   <div class="gm-app-header">
     <h3>Pearl River County Assets: All Assets</h3>
-    <h3><a href="https://spreadsheets.google.com/ccc?key=p24J_PxaAu_Sb-82YvGs_Uw&hl=en#">View Database</a></h3>
+    <h3><a href="http://spreadsheets.google.com/ccc?key=p24J_PxaAu_Sb-82YvGs_Uw&hl=en#">View Database</a></h3>
   </div>
 
   <table width="100%">
