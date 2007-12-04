@@ -8,7 +8,7 @@
   -->
 
   <div class="gm-app-header">
-    <h1>Maps Mashup</h1>
+    <h3>Pearl River County Assets: All Assets</h3>
   </div>
 
   <table width="100%">
