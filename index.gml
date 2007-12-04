@@ -46,6 +46,8 @@
   <gm:template id="myMapDetailsTemplate">
     <div repeat="true">
       <b><gm:text ref="gsx:name"/></b><br/>
+      Address: <gm:text ref="gsx:location"/><br/>
+      Phone: <gm:text ref="gsx:telephone"/>
     </div>
   </gm:template>
 
